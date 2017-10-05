@@ -1,0 +1,2 @@
+{"event_id":"3a1bc88f-8636-4f6b-919d-ea1e661ecf36","event_type":"GameCreatedEvent","payload":{"game_id":"game_1","name":"GAME 1"},"event_time":"2017-01-01 00:00:00"}
+{"event_id":"3a1bc88f-8636-4f6b-919d-ea1e661ecf37","event_type":"GameCreatedEvent","payload":{"game_id":"game_2","name":"GAME 2"},"event_time":"2017-01-01 00:00:00"}
